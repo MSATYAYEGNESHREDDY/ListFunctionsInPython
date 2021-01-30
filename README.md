@@ -1,6 +1,4 @@
 LIST IN PYTHON
-____________________________________________________________________________________________________________________________________________________________________________________
-
 A list is a collection of ordered and indexed elements of different data types.
 The list and its elements are mutable. 
 The list and its elements can be modified at any time in the program. 
